@@ -1,1 +1,1 @@
-Image Machine learning with keras
+Machine learning with keras
